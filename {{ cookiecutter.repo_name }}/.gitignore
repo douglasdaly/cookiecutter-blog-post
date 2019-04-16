@@ -1,0 +1,10 @@
+# Python
+*.py[odc]
+__pycache__/
+
+# Misc.
+*~
+*.backup
+
+# Output files
+publish/*.zip

@@ -1,0 +1,16 @@
+# Python
+*.py[odc]
+__pycache__/
+
+# Sphinx docs
+docs/_build/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Misc.
+*~
+*.backup
