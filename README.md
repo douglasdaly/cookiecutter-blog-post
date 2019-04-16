@@ -1,5 +1,7 @@
 # cookiecutter-blog-post
 
+[![Documentation Status](https://readthedocs.org/projects/cookiecutter-blog-post/badge/?version=latest)](https://cookiecutter-blog-post.readthedocs.io/en/latest/?badge=latest)
+
 *A cookiecutter for blog posts on the 
 [DouglasDaly.com platform](https://github.com/douglasdaly/douglasdaly/).*
 
@@ -20,6 +22,7 @@ Then to get started simply run:
 $ cookiecutter gh:douglasdaly/cookiecutter-blog-post
 ```
 
+For more information [read the docs](https://cookiecutter-blog-post.readthedocs.io/en/latest/).
 
 ## License
 
