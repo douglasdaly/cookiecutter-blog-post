@@ -3,7 +3,7 @@
 ###############################################################################
 
 PROJECT_DIR = '{{ cookiecutter.project_location }}'
-PROJECT_MEDIA = '{{ cookiecutter.media_path }}'
+PROJECT_MEDIA = '{{ cookiecutter.media_location }}'
 POST_ASSET_TAG = '{{ cookiecutter.asset_prefix }}'
 POST_IMAGE = '{{ cookiecutter.post_icon_image }}'
 
