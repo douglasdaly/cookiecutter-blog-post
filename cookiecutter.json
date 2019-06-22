@@ -1,6 +1,6 @@
 {
     "project_name": "Your project name",
-    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') + '.git' }}",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') + '-post.git' }}",
     "project_location": "The path to your main project repository",
     "media_location": "Relative path to project_location media files",
     "post_icon_image": "Icon image file to use for post",

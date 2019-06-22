@@ -2,7 +2,7 @@
 # CONFIGURATION                                                               #
 ###############################################################################
 
-PROJECT_DIR = '{{ cookiecutter.project_path }}'
+PROJECT_DIR = '{{ cookiecutter.project_location }}'
 PROJECT_MEDIA = '{{ cookiecutter.media_path }}'
 POST_ASSET_TAG = '{{ cookiecutter.asset_prefix }}'
 POST_IMAGE = '{{ cookiecutter.post_icon_image }}'
